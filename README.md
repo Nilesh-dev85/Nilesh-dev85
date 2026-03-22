@@ -15,11 +15,12 @@ I help businesses grow using:
 ---
 
 ## 🛠️ Skills
-- Design: Photoshop, Canva, Figma  
+- Design: Photoshop, Canva, Figma, AutoCad 2D,3D
 - Marketing: Email Marketing, Google & Meta ads  
 - Tech: HTML, CSS, C++, C#, React, Python (Learning)  
-- Tools: Shopify, MailerLite, Wordpress  
-
+- Tools: Shopify, MailerLite, Wordpress, Google & Meta Ads
+- Office management: MS Office, Smart Ai Tools Automation
+- Hardware Knowledge
 ---
 
 ## 🚀 Projects
@@ -44,3 +45,4 @@ I help businesses grow using:
 ---
 
 ⭐ I build systems that help businesses grow.
+Description: Quick learner, Quick Adabtation, Solve real world problem, logical thinker 

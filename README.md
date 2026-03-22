@@ -45,4 +45,8 @@ I help businesses grow using:
 ---
 
 ⭐ I build systems that help businesses grow.
-Description: Quick learner, Quick Adabtation, Solve real world problem, logical thinker 
+
+---
+
+## Description: 
+Quick learner, Quick Adabtation, Solve real world problem, logical thinker 

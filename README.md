@@ -18,7 +18,7 @@ I help businesses grow using:
 - Design: Photoshop, Canva, Figma, AutoCad 2D,3D
 - Marketing: Email Marketing, Google & Meta ads  
 - Tech: HTML, CSS, C++, C#, React, Python & Java (Learning)  
-- Tools: Shopify, MailerLite, Wordpress, Google & Meta Ads
+- Tools: Shopify, Brevo, MailerLite, Wordpress, Wix, Google & Meta Ads
 - Office management: MS Office, Smart Ai Tools Automation
 - Computer & IOT Hardware Knowledge
 ---

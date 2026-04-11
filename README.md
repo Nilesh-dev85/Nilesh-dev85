@@ -17,14 +17,14 @@ I help businesses grow using:
 ## 🛠️ Skills
 - Design: Photoshop, Canva, Figma, AutoCad 2D,3D
 - Marketing: Email Marketing, Google & Meta ads  
-- Tech: HTML, CSS, C++, C#, React, Python (Learning)  
+- Tech: HTML, CSS, C++, C#, React, Python & Java (Learning)  
 - Tools: Shopify, MailerLite, Wordpress, Google & Meta Ads
 - Office management: MS Office, Smart Ai Tools Automation
-- Hardware Knowledge
+- Computer & IOT Hardware Knowledge
 ---
 
 ## 🚀 Projects
-- Instagram Auto DM System  
+- AutoCad 2D & 3D Draft  
 - Email Marketing System  
 - Business Websites  
 - E-commerce Website
@@ -40,7 +40,7 @@ I help businesses grow using:
 ---
 
 ## 📫 Contact Me
-📧 your-idigitalservice.co@gmail.com
+📧 your-nileshbhaskar854@gmail.com
 
 ---
 
